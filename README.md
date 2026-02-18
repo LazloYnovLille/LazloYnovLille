@@ -19,15 +19,6 @@ Currently, I'm mainly working with **[HTML, LUA, Python]** and trying to keep th
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
----
-
-### 📊 The Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LazloYnovLille&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazloYnovLille&layout=compact&theme=transparent&hide_border=true&title_color=white&text_color=8a8a8a" alt="Top Languages" width="48%" />
-</p>
-
 <br>
 
 <p align="center">
