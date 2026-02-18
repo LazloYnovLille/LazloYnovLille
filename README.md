@@ -1,4 +1,4 @@
-### Hey, I'm [Lazlo] ✌️
+### Hey, I'm *Lazlo* ✌️
 
 I'm a **Fullstack** developer based in **Lille**. I build things, occasionally break them, and then figure out how to fix them (when i got time lol). 
 
