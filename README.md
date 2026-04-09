@@ -5,7 +5,7 @@ I'm a **Fullstack** developer based in **Lille**. I build things, occasionally b
 Currently, I'm mainly working with **[HTML, LUA, Python]** and trying to keep things simple and clean.
 
 **What I'm up to:**
-- 🛠 Building: **[Anubis Bot]** - [A Telegram oracle powered by Gemini AI. Turning raw sports data into calculated predictions and win probabilities]
+- 🛠 Building: **[Garry's Mod Addons]**
 - 🌱 Learning: **[C++]**
 - 🤝 Open to: [Collaboration / Freelance / New opportunities]
 
